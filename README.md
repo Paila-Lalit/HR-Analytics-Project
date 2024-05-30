@@ -11,7 +11,10 @@ Through dynamic visualizations and interactive dashboards, we're able to uncover
 I have used two tables
 
 ![Screenshot 2024-05-30 121342](https://github.com/Paila-Lalit/HR-Analytics-Project/assets/160754393/9d29e578-8925-416e-bbea-1d945d8dd51d)
-
+## Tools
+- Excel:- Data cleaning
+- SQL :-  Data Analysis
+- Power BI:- Creating Reports
 ## Data Modelling 
 ![Screenshot 2024-05-30 114500](https://github.com/Paila-Lalit/HR-Analytics-Project/assets/160754393/f13467b2-847d-438f-a74b-43b58d3752d6)
 
