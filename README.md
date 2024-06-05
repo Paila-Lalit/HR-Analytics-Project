@@ -96,4 +96,6 @@ Interpretation: Typically, longer periods without promotion might correlate with
 ## Final Dashboard
 ![Screenshot 2024-06-04 164016](https://github.com/Paila-Lalit/HR-Analytics-Project/assets/160754393/064115f0-dcf4-405f-956d-0e53653ab1b6)
 
+## Conclusion
 
+By leveraging these KPIs, the HR department can gain a comprehensive understanding of workforce dynamics and implement targeted interventions to enhance employee retention, satisfaction, and overall organizational health. Further detailed data analysis and visualization using tools like Excel, Power BI, or specialized HR analytics software would provide deeper insights and actionable recommendations.
