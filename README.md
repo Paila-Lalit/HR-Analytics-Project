@@ -49,7 +49,7 @@ Definition: The average hourly wage of male employees in the role of Research Sc
 
 Purpose: Useful for analyzing pay equity, budgeting, and salary benchmarking within this specific job role.
 
-Current Value: $114.45
+Current Value: 114.45
 
 Interpretation: This figure represents the mean hourly compensation for male Research Scientists, which can be used to compare with industry standards or evaluate pay equity within the organization.
 
