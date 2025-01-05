@@ -45,7 +45,7 @@ Interpretation: This indicates that, on average, 50.21% of the workforce across 
 
 𝐀𝐯𝐞𝐫𝐚𝐠𝐞 𝐇𝐨𝐮𝐫𝐥𝐲 𝐑𝐚𝐭𝐞 𝐨𝐟 𝐌𝐚𝐥𝐞 𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡 𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭𝐬: 
 
-Definition: The average hourly wage of male employees in the role of Research Scientist.
+Definition: The average hourly rate of male employees in the role of Research Scientist.
 
 Purpose: Useful for analyzing pay equity, budgeting, and salary benchmarking within this specific job role.
 
